@@ -1,0 +1,5 @@
+ChatterBot
+
+ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.
+
+The more you talk to CJB, the more it learns about you and your behaviour and tries to adapt to you and serve you as your friend, assistant, manager or anything.
